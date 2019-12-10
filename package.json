@@ -1,0 +1,17 @@
+{
+  "name": "graphql-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "graphql-yoga": "^1.16.7"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  },
+  "scripts": {
+    "start": "node server-dist.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
